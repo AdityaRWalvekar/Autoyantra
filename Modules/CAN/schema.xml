@@ -1,0 +1,10 @@
+<config module="CAN">
+    <param name="BaudRate" type="enum" default="500000">
+        <option>125000</option>
+        <option>250000</option>
+        <option>500000</option>
+        <option>1000000</option>
+    </param>
+    <param name="MaxRetransmissions" type="int" default="3" />
+    <param name="LoopbackMode" type="bool" default="false" />
+</config>

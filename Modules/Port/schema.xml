@@ -1,0 +1,8 @@
+<config module="Port">
+    <param name="PinDirection" type="enum" default="OUTPUT">
+        <option>INPUT</option>
+        <option>OUTPUT</option>
+    </param>
+    <param name="PullUpEnabled" type="bool" default="false" />
+    <param name="PinNumber" type="int" default="0" />
+</config>

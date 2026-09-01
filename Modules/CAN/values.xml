@@ -1,0 +1,5 @@
+<values module="CAN">
+    <param name="BaudRate">500000</param>
+    <param name="MaxRetransmissions">6533212</param>
+    <param name="LoopbackMode">false</param>
+</values>

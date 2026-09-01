@@ -1,0 +1,5 @@
+<values module="Port">
+    <param name="PinDirection">OUTPUT</param>
+    <param name="PullUpEnabled">true</param>
+    <param name="PinNumber">1231237722</param>
+</values>

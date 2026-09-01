@@ -1,0 +1,9 @@
+<config module="Mcu">
+    <param name="ClockSource" type="enum" default="PLL">
+        <option>PLL</option>
+        <option>External</option>
+        <option>Internal</option>
+    </param>
+    <param name="ResetOnWatchdog" type="bool" default="true" />
+    <param name="CpuFrequencyMhz" type="int" default="180" />
+</config>

@@ -1,0 +1,5 @@
+<values module="Mcu">
+    <param name="ClockSource">External</param>
+    <param name="ResetOnWatchdog">true</param>
+    <param name="CpuFrequencyMhz">123</param>
+</values>

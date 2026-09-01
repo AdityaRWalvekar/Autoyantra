@@ -1,0 +1,8 @@
+<project name="MyProject">
+  <modules>
+    <module name="CAN" />
+    <module name="Fls" />
+    <module name="Mcu" />
+    <module name="Port" />
+  </modules>
+</project>

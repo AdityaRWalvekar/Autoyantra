@@ -1,0 +1,9 @@
+<config module="Fls">
+    <param name="MaxReadFastMode" type="bool" default="true" />
+    <param name="EraseTimeoutMs" type="int" default="1000" />
+    <param name="AccessMode" type="enum" default="Read">
+        <option>Read</option>
+        <option>Write</option>
+        <option>Read/Write</option>
+    </param>
+</config>

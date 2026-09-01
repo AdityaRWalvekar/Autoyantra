@@ -1,0 +1,16 @@
+VERSION ""
+
+NS_ :
+    NS_DESC_
+    CM_
+
+BS_:
+
+BU_: ECM TCU
+
+BO_ 100 EngineData: 8 ECM
+ SG_ EngineSpeed : 0|16@1+ (0.1,0) [0|8000] "rpm" ECM
+ SG_ VehicleSpeed : 16|16@1+ (0.01,0) [0|250] "km/h" ECM
+
+BO_ 200 GearInfo: 8 TCU
+ SG_ CurrentGear : 0|8@1+ (1,0) [0|10] "" TCU

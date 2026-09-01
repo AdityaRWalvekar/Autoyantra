@@ -1,0 +1,40 @@
+<project name="MyProject">
+  <module name="CanTp">
+    <p n="CanTpBs" v=""/>
+    <p n="CanTpTxPaddingActivation" v="CANTP_OFF"/>
+    <p n="CanTpNas" v=""/>
+    <p n="CanTpNSa" v=""/>
+    <p n="CanTpChangeParameterApi" v="false"/>
+    <p n="CanTpNcr" v=""/>
+    <p n="CanTpNcs" v=""/>
+    <p n="CanTpNar" v=""/>
+    <p n="CanTpChannelMode" v="CANTP_MODE_FULL_DUPLEX"/>
+    <p n="CanTpRxNSduId" v=""/>
+    <p n="CanTpRxWftMax" v=""/>
+    <p n="CanTpSTmin" v=""/>
+    <p n="CanTpTxNSduId" v=""/>
+    <p n="CanTpRxTaType" v="CANTP_FUNCTIONAL"/>
+    <p n="CanTpRxPaddingActivation" v="CANTP_OFF"/>
+    <p n="CanTpMaxChannelCnt" v=""/>
+    <p n="CanTpTxFcNPduConfirmationPduId" v=""/>
+    <p n="CanTpTxTaType" v="CANTP_FUNCTIONAL"/>
+    <p n="CanTpRxFcNPduId" v=""/>
+    <p n="CanTpTxNPduConfirmationPduId" v=""/>
+    <p n="CanTpDevErrorDetect" v="false"/>
+    <p n="CanTpTxAddressingFormat" v="CANTP_EXTENDED"/>
+    <p n="CanTpFlexibleDataRateSupport" v="true"/>
+    <p n="CanTpMainFunctionPeriod" v=""/>
+    <p n="CanTpRxNPduId" v=""/>
+    <p n="CanTpTc" v="false"/>
+    <p n="CanTpNbr" v=""/>
+    <p n="CanTpNbs" v=""/>
+    <p n="CanTpReadParameterApi" v="false"/>
+    <p n="CanTpDynIdSupport" v="false"/>
+    <p n="CanTpNAe" v=""/>
+    <p n="CanTpPaddingByte" v=""/>
+    <p n="CanTpGenericConnectionSupport" v="false"/>
+    <p n="CanTpRxAddressingFormat" v="CANTP_EXTENDED"/>
+    <p n="CanTpNTa" v=""/>
+    <p n="CanTpVersionInfoApi" v="false"/>
+  </module>
+</project>
